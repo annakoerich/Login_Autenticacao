@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419743196400",
+    "project_id": "autenticacao-41f23",
+    "storage_bucket": "autenticacao-41f23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419743196400:android:4180136103a93f6b200e35",
+        "android_client_info": {
+          "package_name": "com.example.login_google"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOWrF52X8ZoMIaXrdsU2awkGUPhkvQ0KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
